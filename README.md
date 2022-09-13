@@ -25,4 +25,5 @@ Go to the [**app**](https://reminder-app-fronted.pages.dev/).
 - [ ] Setup Auth and Authorization
 - [ ] Setup push notifications channel
 - [ ] Craft Worker
+- [ ] Wire up the frontyard
 
